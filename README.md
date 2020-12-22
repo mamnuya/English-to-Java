@@ -2,6 +2,9 @@
 
 Program that translates code instructions written in U.S. English into java code to run. The written instructions follow particular syntax and rules.
 
+See examples of wirrten English instructions in files with .txt extension. 
+
+
 Rules for written English instructions (Case Sensitive) :
 
 PRINTING
