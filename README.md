@@ -20,7 +20,7 @@ ASSIGNING VARIABLES
   *Type "Set" and the variable name, followed by "to" and the desired long. (ie. Set exampleVariableName to 800)
 - Setting a variable to another variable's value
   *Type "Set" and the variable name, followed by "to" and the desired/existing variable. (ie. Set exampleVariableName to otherVariableName)
-- Setting a variable to a method call (See Method definitions below)
+- Setting a variable to a method call (See DEFINING METHODS below)
   *Type "Set" and the variable name, followed by "to" and the method name with parenthesis, including any parameters. (ie. Set exampleVariableName to methodName() OR  Set exampleVariableName to methodName(80) )
 - Setting a variable to an arithmetic expression
   *Type "Set" and the variable name, followed by "to" and the arithmetic expression. The values in the expression may be either variables or longs, and only 2 values are acceptable in the expression. Operators supported include: +, -, /, *, and %. (ie. Set exampleVariableName to variableName + 800)
@@ -33,6 +33,14 @@ MAKING COMMENTS
 - Making multiline comments
  *Type "Multiline Comment" and indent any lines following this line to in the multiline comment. (ie. Multiline Comment indentedCommentOnNextLine).
  
+The following sections support nested-blocks.
+DEFINING METHODS
+
+FOR-LOOPS
+
+WHILE-LOOPS
+
+IF-STATEMENTS
  
  
  
