@@ -1,0 +1,47 @@
+Print "hi"
+Print "goodbye" Comment example of a Comment, Print 1000 does nothing in a comment!
+Comment 
+Print -480
+
+Comment The empty line above is permitted
+Print "bye"
+Set a to 400 - 300
+Print a
+Create an if-statement with condition (a > 50) and the following if-block:
+	Print "no"
+	Create an if-statement with condition (a > 50) and the following if-block:
+		Print "yes"
+Print
+Create a while-loop with condition (a > 10) and the following while-block:
+	Print a
+	Set a to a-50
+	Create a while-statement with condition (a > 10) and the following while-block:
+		Print "check"
+		Set a to a-50
+Set b to input
+Comment Print b
+Create for-loop with variable cat starting from 0, stopping at 10, with step of 5, and the following for-block: 
+	Print 0
+	Create for-loop with variable cat starting from 0, stopping at 10, with step of 5, and the following for-block: 
+		Print 1
+Define a method called addNums with parameter (x,y)
+	Set x to x+y
+	return x
+Set b to addNums(0,15)
+Print "Variable b is "
+Set b to addNums(0,-40)
+Print b
+Define a method called none with parameter ()
+	Print 6700
+	return 580
+Set b to none()
+Print b
+Multiline Comment
+	exampleComment1
+	exampleComment2
+	exampleComment3 
+Print "Multicomments Complete!"
+
+	
+
+
