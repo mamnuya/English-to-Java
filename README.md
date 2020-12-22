@@ -24,6 +24,8 @@ ASSIGNING VARIABLES
   *Type "Set -exampleVariableName to methodName(exampleAnyNeededParameters)". (ie. Set exampleVariableName to methodName() OR  Set exampleVariableName to methodName(80) )
 - Setting a variable to an arithmetic expression
   *Type "Set -exampleVariableName- to -exampleLeftValue- -exampleOperator- -exampleRightValue". The values in the expression may be either variables or longs, and only 2 values are acceptable in the expression. Operators supported include: +, -, /, *, and %. (ie. Set exampleVariableName to variableName + 800)
+- Setting a variable to a user input
+  *Type "Set -exampleVariableName- to input" When running the code, enter a long when asked to type a value for the variable assignment.
   
 MAKING COMMENTS
 - Making single line comments with no code instructions to interpret prior to the comment
