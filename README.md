@@ -7,6 +7,9 @@ See examples of wirrten English instructions in files with .txt extension.
 
 Rules for written English instructions (Case Sensitive) :
 
+EMPTY LINES
+- Empty lines in the .txt file is allowed (ie. an empty line inbetween other lines of code instructions), except for after an indentation.
+
 PRINTING
 - Printing an empty line
   *Type "Print" (ie. Print)
