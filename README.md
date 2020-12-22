@@ -31,7 +31,7 @@ MAKING COMMENTS
 - Making single line comments with code instructions to interpret prior to the comment
  *Type a line of code instructions to interpret. Followed this with "Comment" and the desired comment, which may be left blank. (ie. Print "hi" Comment exampleCommentLine)
 - Making multiline comments
- *Type "Multiline Comment" and indent any lines following this line to include it in a multiline comment. (ie. Multiline Comment indentedCommentOnNextLine).
+ *Type "Multiline Comment" and indent any lines following this line to in the multiline comment. (ie. Multiline Comment indentedCommentOnNextLine).
  
  
  
