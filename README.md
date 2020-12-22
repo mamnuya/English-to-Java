@@ -4,6 +4,9 @@ Program that translates code instructions written in U.S. English into java code
 
 See examples of wirrten English instructions in files with .txt extension. 
 
+USAGE IN TERMINAL
+java Translator filename.txt (will run the interpreter on the code contained in filename.txt)
+
 
 Rules for written English instructions (Case Sensitive) :
 
